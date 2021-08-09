@@ -1,2 +1,2 @@
 # PyBer_Analysis
-Visualie Ride-Sharing Data
+Visualize Ride-Sharing Data
